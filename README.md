@@ -1,5 +1,5 @@
-# ML-Logistic-Regression-CanStudentAttendTheUniversity-Algoritm
-An ML:Logistic Regression algorithm about "can the candidate attend the university" problem written with Python 3.10.
+# Machine Learning:Logistic Regression -> Can Student Attend The University Algoritm
+An Machine Learning:Logistic Regression algorithm about "can the candidate attend the university" problem written with Python 3.10.
 
 # Some visualizations and plottings about the problem
 These graphs are also output of the code.
