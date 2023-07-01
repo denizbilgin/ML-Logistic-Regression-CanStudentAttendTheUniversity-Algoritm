@@ -20,7 +20,7 @@ import math
 
 
 # Loading the data
-file = open("./ex2data1.txt","r")
+file = open("./data.txt","r")
 x_trainArray = []
 y_trainArray = []
 for aline in file:
